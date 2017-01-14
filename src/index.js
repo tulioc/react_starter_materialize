@@ -1,6 +1,3 @@
-/**
- * Created by Maarten on 24-2-2016.
- */
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import Hello from './components/helloworld.js'
